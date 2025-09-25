@@ -1,0 +1,5 @@
+=== CloudWatch Analysis ===
+✅ No anomalies detected in CloudWatch metrics.
+
+=== CloudTrail User Activity Summary ===
+No CloudTrail logs available.

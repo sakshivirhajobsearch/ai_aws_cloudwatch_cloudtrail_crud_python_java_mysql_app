@@ -1,0 +1,20 @@
+# AWS SDK
+boto3==1.40.38
+botocore==1.40.38
+awscli==1.42.38
+s3transfer==0.14.0
+jmespath==1.0.1
+
+# MySQL Connector
+mysql-connector-python==9.4.0
+
+# Environment variables
+python-dotenv==1.1.1
+
+# AI/ML and data processing
+pandas==2.2.2
+scikit-learn==1.5.0
+numpy==2.2.6
+
+# Optional (for exporting reports/logs)
+rich==14.1.0
